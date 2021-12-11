@@ -5,6 +5,8 @@ Proyecto completo de museo de anatomia de Realidad Virtual
 
 Este proyecto fue desarollado usando Unity en el Render Pipeline normal. Integracion a realidad virtual fue hecha usando el paquete de OpenXR y el XR Interaction Toolkit para programar los controles. El esquema de controles es el siguiente:
 
+![controles](https://user-images.githubusercontent.com/60772784/145665082-5c273aa6-461d-446d-b31a-5188d69c372f.PNG)
+
 # Demo
 Un demo de la aplicacione se encuentra en el siguiente enlace:
 
