@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1LspjXEifVX9aWvGlc5R3aEIkBpwShGWu/view?usp=shari
 Una vez descargado, se puede subir a un equipo de Oculus Quest 2 usando SideQuest para importar el programa hacia el dispostivo. Para ejecutar el programa dentro del dispositivo, ir a aplicaciones y buscar por aplicaciones de 'Unknown Sources'. El programa se encontrara bajo el titulo 'Museo de Anatomia VR'.
 
 # Autores
-Valentina Uribe -201817485
-Manuela Solorzano - 201532341
-Carlos Gutiérrez - 201819537
-Sebastian Calvache - 202022899
+Valentina Uribe -201817485 <br /> 
+Manuela Solorzano - 201532341 <br /> 
+Carlos Gutiérrez - 201819537 <br /> 
+Sebastian Calvache - 202022899 <br /> 
