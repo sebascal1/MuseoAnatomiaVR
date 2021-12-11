@@ -1,11 +1,5 @@
-# MuseoAnatomiaVR
+# Museo de Anatomia VR
 Proyecto completo de museo de anatomia de Realidad Virtual
-
-Autores:
-Valentina Uribe -201817485
-Manuela Solorzano - 201532341
-Carlos Gutiérrez - 201819537
-Sebastian Calvache - 202022899
 
 ![Captura](https://user-images.githubusercontent.com/60772784/145660623-4b99f746-3bbc-4313-9cb2-b1dc8625a839.PNG)
 
@@ -19,11 +13,19 @@ https://youtu.be/Dp58X66vzTg
 # Instalación dentro de Unity
 Clonar el proyecto y abrir con la versión de Unity 2020.3.20f1:
 
-git clone
+```bash
+git clone https://github.com/sebascal1/MuseoAnatomiaVR.git
+```
 
 # Instalacion en Oculus Quest 2
 El archivo de apk del build del programa se puede descargar desde el siguiente enlace:
 
-
+https://drive.google.com/file/d/1LspjXEifVX9aWvGlc5R3aEIkBpwShGWu/view?usp=sharing
 
 Una vez descargado, se puede subir a un equipo de Oculus Quest 2 usando SideQuest para importar el programa hacia el dispostivo. Para ejecutar el programa dentro del dispositivo, ir a aplicaciones y buscar por aplicaciones de 'Unknown Sources'. El programa se encontrara bajo el titulo 'Museo de Anatomia VR'.
+
+# Autores
+Valentina Uribe -201817485
+Manuela Solorzano - 201532341
+Carlos Gutiérrez - 201819537
+Sebastian Calvache - 202022899
