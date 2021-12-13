@@ -27,7 +27,7 @@ git clone https://github.com/sebascal1/MuseoAnatomiaVR.git
 # Instalacion en Oculus Quest 2
 El archivo de apk del build del programa se puede descargar desde el siguiente enlace:
 
-https://drive.google.com/file/d/1LspjXEifVX9aWvGlc5R3aEIkBpwShGWu/view?usp=sharing
+https://drive.google.com/file/d/1wQBnZbKhzUoOlj6rJ3t7z1_znHJRe9GS/view?usp=sharing
 
 Una vez descargado, se puede subir a un equipo de Oculus Quest 2 usando SideQuest para importar el programa hacia el dispostivo. Para ejecutar el programa dentro del dispositivo, ir a aplicaciones y buscar por aplicaciones de 'Unknown Sources'. El programa se encontrara bajo el titulo 'MuseoAnatomia'.
 
