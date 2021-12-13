@@ -1,5 +1,5 @@
 # Museo de Anatomia VR
-El museo de anatomia VR es un demo simple para poder demostrar el uso de la realidad virtual para poder explorar, estudiar y aprender de objetos de anatomia y cadaveres reales, pero dentro de realidad virtual. Esto evita los problemas logisticos, e higienicos, que resultan de explorar un cadaver de forma presencial. El demo usa como ejemplo dos objetos del museo de anatomia de La Universidad de Los Andes (el corazon y brazo) para poder demostrar su uso. Dentro del ambiente, el usuario puede elegir y manipular el objeto de forma deseada.
+El museo de anatomia VR es un demo simple para poder demostrar el uso de la realidad virtual para poder explorar, estudiar y aprender de objetos de anatomia y cadaveres reales, pero dentro de realidad virtual. Esto evita los problemas logisticos, e higienicos, que resultan de explorar un cadaver de forma presencial. El demo usa como ejemplo dos objetos del museo de anatomia de La Universidad de Los Andes (el corazon y brazo) para poder demostrar su uso. Dentro del ambiente, el usuario puede elegir y manipular el objeto de forma deseada, con anotaciones para localizar cada area del modelo, y resaltos para poder identificar cada parte.
 
 ![Captura](https://user-images.githubusercontent.com/60772784/145660623-4b99f746-3bbc-4313-9cb2-b1dc8625a839.PNG)
 
