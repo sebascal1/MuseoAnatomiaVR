@@ -36,3 +36,6 @@ Valentina Uribe -201817485 <br />
 Manuela Solorzano - 201532341 <br /> 
 Carlos Gutiérrez - 201819537 <br /> 
 Sebastian Calvache - 202022899 <br /> 
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
