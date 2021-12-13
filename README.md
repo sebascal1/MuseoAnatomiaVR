@@ -12,13 +12,18 @@ El esquema de controles es el siguiente:
 
 ![controles](https://user-images.githubusercontent.com/60772784/145665082-5c273aa6-461d-446d-b31a-5188d69c372f.PNG)
 
+## Pre-Requisitos
+Se debe tener instalado las siguientes tecnologias para poder bajar el programa de forma exitosa:
+* Unity 2020.3.20f1 con los paquetes de OpenXR y XR interaction toolkit exitosamente instalados y tener las opciones de control de Oculus Quest/Touch instalados (mas info: https://www.youtube.com/watch?v=wnn-dzHz-tA&t=819s&ab_channel=JustinPBarnett-VRGameDev)
+* Sidequest (para poder instalar apk) - https://sidequestvr.com/
+
 # Video de Demo
 Un video demo de la aplicacione se encuentra en el siguiente enlace:
 
 https://youtu.be/Dp58X66vzTg
 
 # Instalación dentro de Unity
-Clonar el proyecto y abrir con la versión de Unity 2020.3.20f1:
+Clonar el proyecto y abrir con la versión de Unity 2020.3.20f1 dentro del proyecto con los paquetes de OpenXR y XR interaction toolkit instalados:
 
 ```bash
 git clone https://github.com/sebascal1/MuseoAnatomiaVR.git
